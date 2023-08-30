@@ -1,4 +1,3 @@
-# SuperMarket-Sales-Prediction
 # Supermarket Sales Prediction
 
 ## Goal
