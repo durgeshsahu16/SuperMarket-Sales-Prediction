@@ -9,7 +9,7 @@ The dataset used for this project can be found on Kaggle at [Supermarket Sales D
 ## What I've Done
 In this project, I conducted an extensive analysis of the supermarket dataset, encompassing data cleaning, manipulation, preprocessing, and visualization. I then proceeded to build predictive models using various machine learning classification and regression algorithms. Each algorithm's performance was evaluated, including accuracy scores, training scores, classification reports, and confusion matrices.
 
-In the exploratory data analysis (EDA) phase, I employed a variety of plots and visualizations to gain insights into the dataset. Some of the visualizations used include histograms, barplots, boxplots, heatmaps, scatter plots, pair plots, and joint plots.
+In the exploratory data analysis (EDA) phase, I employed a variety of plots and visualizations to gain insights into the dataset. Some of the visualizations used include histograms, barplots, boxplots, heatmaps and scatter plots.
 
 In the model prediction phase, I obtained different accuracy scores for various models, with the highest accuracy reaching 100% using the Random Forest Classifier and Extra Trees Classifier, which is highly promising for this supermarket dataset. However, it's important to note that other models may benefit from hyperparameter tuning to further improve their accuracy.
 
