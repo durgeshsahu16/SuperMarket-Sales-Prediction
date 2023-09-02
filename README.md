@@ -11,7 +11,7 @@ In this project, I conducted an extensive analysis of the supermarket dataset, e
 
 In the exploratory data analysis (EDA) phase, I employed a variety of plots and visualizations to gain insights into the dataset. Some of the visualizations used include histograms, barplots, boxplots, heatmaps and scatter plots.
 
-In the model prediction phase, I obtained different accuracy scores for various models, with the highest accuracy reaching about 52.42 % using the Decision Tree Classifier and Gradient Boosting Classifier, which is highly promising for this supermarket dataset. However, it's important to note that other models may benefit from hyperparameter tuning to further improve their accuracy.
+In the model prediction phase, I obtained different accuracy scores for various models, with the highest accuracy reaching about 52.42 % using the Decision Tree Classifier and random Forest Classifier, which is highly promising for this supermarket dataset. However, it's important to note that other models may benefit from hyperparameter tuning to further improve their accuracy.
 
 ## Accuracies of Different Models
 -KNeighbors Classifier= 45.45 %
@@ -23,7 +23,7 @@ In the model prediction phase, I obtained different accuracy scores for various 
 -Gradient Boosting Classifier= 88.26 %
 -Bagging Classifier = 53.2 %
 
-We got a good accuracy of about 52.42 % using the Decision Tree Classifier and Gradient Boosting Classifier which is quite well for the given dataset.
+We got a good accuracy of about 52.42 % using the Decision Tree Classifier and Random Forest Classifier which is quite well for the given dataset.
 
 
 ## Libraries Used
