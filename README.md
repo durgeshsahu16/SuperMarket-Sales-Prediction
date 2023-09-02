@@ -14,16 +14,17 @@ In the exploratory data analysis (EDA) phase, I employed a variety of plots and 
 In the model prediction phase, I obtained different accuracy scores for various models, with the highest accuracy reaching 100% using the Random Forest Classifier and Extra Trees Classifier, which is highly promising for this supermarket dataset. However, it's important to note that other models may benefit from hyperparameter tuning to further improve their accuracy.
 
 ## Accuracies of Different Models
-- KNeighbors Classifier: 64.75%
-- SVC: 55.50%
-- Naive Bayes: 55.10%
-- Decision Tree Classifier: 64%
-- Random Forest Classifier: 100%
-- Ada Boost Classifier: 67%
-- Gradient Boosting Classifier: 89%
-- XGB Classifier: 64%
-- Extra Trees Classifier: 100%
-- Bagging Classifier: 51%
+-KNeighbors Classifier= 45.45 %
+-SVC= 47.57 %
+-Logistic Regression = 50.90 %
+-Naive Bayes= 51.21 %
+-Decision Tree Classifier= 52.42 %
+-Random Forest Classifier= 51.51 %
+-Gradient Boosting Classifier= 88.26 %
+-Bagging Classifier = 53.2 %
+
+We got a good accuracy of about 52.42 % using Decision Tree Classifier and Gradient Boosting Classifier which is quite well for the given dataset.
+
 
 ## Libraries Used
 - Pandas
@@ -34,6 +35,6 @@ In the model prediction phase, I obtained different accuracy scores for various 
 - Scikit-learn
 
 ## Conclusion
-This project successfully achieved a remarkable accuracy of approximately 100% using the Random Forest Classifier and Extra Trees Classifier, demonstrating the potential of these models for the given supermarket sales dataset. For other models, further accuracy improvements can be explored through hyperparameter tuning.
+This project successfully achieved a remarkable accuracy of approximately 53% using the Random Forest Classifier and Random Forest Classifier, demonstrating the potential of these models for the given supermarket sales dataset. For other models, further accuracy improvements can be explored through hyperparameter tuning.
 
 **- Durgesh Kumar Sahu**
